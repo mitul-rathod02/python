@@ -1,0 +1,50 @@
+User_ID,Cust_name,Product_ID,Gender,Age Group,Age,Marital_Status,State,Zone,Occupation,Product_Category,Orders,Amount
+1002903,Sanskriti,P00125942,F,26-35,28,0,Maharashtra,Western,Healthcare,Auto,1,23952
+1000732,Kartik,P00110942,F,26-35,35,1,Andhra�Pradesh,Southern,Govt,Auto,3,23934
+1001990,Bindu,P00118542,F,26-35,35,1,Uttar Pradesh,Central,Automobile,Auto,3,23924
+1001425,Sudevi,P00237842,M,0-17,16,0,Karnataka,Southern,Construction,Auto,2,23912
+1000588,Joni,P00057942,M,26-35,28,1,Gujarat,Western,Food Processing,Auto,2,23877
+1000588,Joni,P00057942,M,26-35,28,1,Himachal Pradesh,Northern,Food Processing,Auto,1,23877
+1001132,Balk,P00018042,F,18-25,25,1,Uttar Pradesh,Central,Lawyer,Auto,4,23841
+1002092,Shivangi,P00273442,F,55+,61,0,Maharashtra,Western,IT Sector,Auto,1,
+1003224,Kushal,P00205642,M,26-35,35,0,Uttar Pradesh,Central,Govt,Auto,2,23809
+1003650,Ginny,P00031142,F,26-35,26,1,Andhra�Pradesh,Southern,Media,Auto,4,23799.99
+1003829,Harshita,P00200842,M,26-35,34,0,Delhi,Central,Banking,Auto,1,23770
+1000214,Kargatis,P00119142,F,18-25,20,0,Andhra�Pradesh,Southern,Retail,Auto,2,23752
+1004035,Elijah,P00080342,F,18-25,20,1,Andhra�Pradesh,Southern,IT Sector,Auto,2,23730
+1001680,Vasudev,P00324942,M,26-35,26,1,Andhra�Pradesh,Southern,Automobile,Auto,4,23718
+1003858,Cano,P00293742,M,46-50,46,1,Madhya Pradesh,Central,Hospitality,Auto,3,
+1000813,Lauren,P00289942,F,18-25,24,0,Andhra�Pradesh,Southern,Govt,Auto,2,23664
+1005447,Amy,P00275642,F,46-50,48,1,Andhra�Pradesh,Southern,IT Sector,Auto,3,
+1001193,Mick,P00004842,F,26-35,29,0,Andhra�Pradesh,Southern,Aviation,Auto,1,23619
+1001883,Praneet,P00029842,M,51-55,54,1,Uttar Pradesh,Central,Hospitality,Auto,1,23568
+1001883,Praneet,P00029842,M,51-55,54,1,Uttar Pradesh,Central,Hospitality,Auto,1,23568
+1000113,Ellis,P00180642,F,18-25,19,1,Andhra�Pradesh,Southern,Govt,Auto,4,23546
+1000416,Hrisheekesh,P00181842,F,46-50,46,1,Uttar Pradesh,Central,Banking,Auto,2,23525
+1005256,Grant,P00101742,F,26-35,30,0,Andhra�Pradesh,Southern,IT Sector,Auto,1,23518
+1001505,Gilcrest,P00271842,F,51-55,53,0,Uttar Pradesh,Central,Automobile,Auto,2,23515
+1000900,Skaria,P00317842,M,55+,83,0,Karnataka,Southern,Automobile,Auto,3,23513
+1005908,Eric,P00282642,F,26-35,33,0,Andhra�Pradesh,Southern,IT Sector,Auto,3,23462
+1001101,Gibson,P00234742,F,36-45,40,0,Uttar Pradesh,Central,Banking,Auto,3,23456
+1004736,Mahima,P00058042,F,18-25,25,1,Andhra�Pradesh,Southern,Banking,Auto,4,23451
+1004037,Etezadi,P00190542,M,51-55,54,1,Andhra�Pradesh,Southern,Govt,Hand & Power Tools,2,23434
+1002340,James,P00119642,F,36-45,39,1,Andhra�Pradesh,Southern,Aviation,Auto,3,23389
+1005664,Dean,P00111642,F,18-25,20,0,Andhra�Pradesh,Southern,Aviation,Auto,2,23365
+1002523,Aman,P00293342,F,26-35,32,1,Andhra�Pradesh,Southern,Food Processing,Auto,3,23326
+1002503,Mousam,P00220042,F,36-45,36,0,Andhra�Pradesh,Southern,Automobile,Auto,2,23314
+1002638,Damala,P00346242,F,26-35,35,1,Maharashtra,Western,Media,Auto,2,23306
+1004505,Daniels,P00080042,F,51-55,55,1,Andhra�Pradesh,Southern,Healthcare,Auto,4,23302
+1004957,Inderpreet,P00111842,M,26-35,27,1,Jharkhand,Eastern,Govt,Auto,1,23285
+1005649,Sweta,P00238542,M,18-25,20,1,Delhi,Central,Media,Auto,1,23281
+1004508,Phonely,P00048742,F,26-35,32,0,Andhra�Pradesh,Southern,Aviation,Auto,1,23270
+1002520,Mike,P00310342,M,55+,72,1,Himachal Pradesh,Northern,Media,Auto,4,23267
+1003111,Dean,P00249542,F,18-25,25,1,Andhra�Pradesh,Southern,Banking,Auto,4,23252
+1000687,Neola,P00156442,M,26-35,35,0,Kerala,Southern,Aviation,Auto,1,23247
+1003267,Trupti,P00144242,M,26-35,30,1,Uttar Pradesh,Central,Banking,Hand & Power Tools,2,23246
+1001182,Zypern,P00122442,M,0-17,16,0,Andhra�Pradesh,Southern,Food Processing,Auto,4,23239
+1005383,Ellison,P0096942,F,36-45,40,0,Andhra�Pradesh,Southern,Aviation,Auto,2,23201
+1004303,Jane,P00201442,F,26-35,35,1,Andhra�Pradesh,Southern,Aviation,Auto,2,23185
+1005493,Stewart,P00036242,M,36-45,45,1,Andhra�Pradesh,Southern,Agriculture,Hand & Power Tools,3,23160
+1000728,Breyer,P00113942,F,26-35,28,0,Andhra�Pradesh,Southern,Banking,Auto,1,23154
+1002966,Jesslyn,P00121642,M,26-35,32,1,Delhi,Central,Construction,Auto,3,23103
+1001726,Abhijit,P00105042,F,26-35,32,0,Andhra�Pradesh,Southern,Retail,Auto,4,23066
